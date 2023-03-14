@@ -8,12 +8,10 @@ Blended with the experience I have gathered and the teamwork spirit I have grown
 📫 Proven strength and drive in group projects. Respected by both the customers and colleagues thanks to profound communication skills. Believes generating high-impact results through following ethical standards and teamwork. Looking forward to working with creative teams on challenging projects.
 ❔ I am a front-end React developer that skilled in developing interactive user interfaces.
 🔒I have a passion for creating user-friendly and functional web applications that look great. I believe in writing clean and structured code to ensure maximum compatibility and performance.
-⚡I am highly motivated, organized, and able to work well both independently and as part of a team.
+⚡I am highly motivated, organized, and able to work well both as part of a team and independently  .
 ⏳ I am committed to staying up to date with the latest technologies and trends in web development to ensure the best outcomes.
 
-Tech Stack
 
-html5 logo css3 logo javascript logo typescript logo react logo Redux bootstrap logo sass logo Tailwind CSS Git nodejs logo bash logo figma logo firebase logo jira logo codepen logo slack logo trello logo photoshop logo yarn logo
-Socials
 
-linkedin instagram discord logo Furkan Evin#3253
+
+linkedin instagram
